@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['monkey']
+
+roboflow:
+  workspace: ttu-ai
+  project: monkey-d0lpt
+  version: 7
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ttu-ai/monkey-d0lpt/dataset/7

@@ -1,0 +1,8 @@
+# YOLOv12 dataset
+path: C:/Users/wangs/monkeyv7/datasets/wildlife
+# train: [images/train, images/train_pseudo]
+train: images/train
+test: images/test
+val: images/val
+names:
+  0: monkey

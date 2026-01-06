@@ -1,0 +1,7 @@
+# YOLOv12 dataset
+path: C:/Users/wangs/monkeyv7/datasets/wildlife
+train: [images/train, images/train_laserSpot]
+val: [images/val,images/val_laserSpot]
+names:
+  0: monkey
+  1: spot

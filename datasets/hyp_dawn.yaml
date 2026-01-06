@@ -1,0 +1,27 @@
+# 清晨低光場景資料增強（YOLOv12 Hyperparameters）
+degrees: 0.0
+translate: 0.08
+scale: 0.3
+shear: 0.0
+perspective: 0.0
+mosaic: 1.0
+copy_paste: 0.35
+mixup: 0.1
+hsv_h: 0.015
+hsv_s: 0.6
+hsv_v: 0.45
+brightness: 0.25
+contrast: 0.25
+gamma_min: 0.6
+gamma_max: 1.6
+motion_blur_prob: 0.2
+defocus_prob: 0.15
+fog_prob: 0.25
+fog_intensity: [0.05, 0.35]
+optimizer: AdamW
+lr0: 0.001
+lrf: 0.01
+momentum: 0.9
+weight_decay: 0.05
+warmup_epochs: 3
+ema: true
