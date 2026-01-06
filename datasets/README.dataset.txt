@@ -1,6 +1,3 @@
-# monkey > 2025-10-06 12:32pm
-https://universe.roboflow.com/ttu-ai/monkey-d0lpt
-
-Provided by a Roboflow user
-License: CC BY 4.0
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5f832d6d8e5f7f13986a2ad14773f02f86dab49624a3e668e8d87b739387fa1
+size 129
